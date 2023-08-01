@@ -1,0 +1,4 @@
+element,model,search_item,rel_path,file,Group
+Ta,Linear,33.110078,./examples/Ta_Linear_JCP2014/JSON/Volume_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Volume_BCC/BCC_2.3.json,Volume_BCC
+Ta,Linear,40.341566,./examples/Ta_Linear_JCP2014/JSON/Volume_FCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Volume_FCC/FCC_3.0.json,Volume_FCC
+Ta,Linear,56.26276,./examples/Ta_Linear_JCP2014/JSON/Volume_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Volume_BCC/BCC_2.2.json,Volume_BCC

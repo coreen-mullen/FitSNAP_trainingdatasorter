@@ -1,0 +1,13 @@
+element,model,search_item,rel_path,file,Group
+Ta,Linear,-46.426795,./examples/Ta_Linear_JCP2014/JSON/Volume_FCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Volume_FCC/FCC_4.2.json,Volume_FCC
+Ta,Linear,-46.426557,./examples/Ta_Linear_JCP2014/JSON/Elastic_FCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_FCC/FCC_deformed_37.json,Elastic_FCC
+Ta,Linear,-46.426499,./examples/Ta_Linear_JCP2014/JSON/Elastic_FCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_FCC/FCC_deformed_49.json,Elastic_FCC
+Ta,Linear,-46.42629,./examples/Ta_Linear_JCP2014/JSON/Elastic_FCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_FCC/FCC_deformed_35.json,Elastic_FCC
+Ta,Linear,-46.424584,./examples/Ta_Linear_JCP2014/JSON/Elastic_FCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_FCC/FCC_deformed_53.json,Elastic_FCC
+Ta,Linear,-46.423938,./examples/Ta_Linear_JCP2014/JSON/Elastic_FCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_FCC/FCC_deformed_64.json,Elastic_FCC
+Ta,Linear,-46.42286,./examples/Ta_Linear_JCP2014/JSON/Elastic_FCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_FCC/FCC_deformed_98.json,Elastic_FCC
+Ta,Linear,-46.422628,./examples/Ta_Linear_JCP2014/JSON/Elastic_FCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_FCC/FCC_deformed_30.json,Elastic_FCC
+Ta,Linear,-46.421142,./examples/Ta_Linear_JCP2014/JSON/Elastic_FCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_FCC/FCC_deformed_29.json,Elastic_FCC
+Ta,Linear,-46.420083,./examples/Ta_Linear_JCP2014/JSON/Elastic_FCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_FCC/FCC_deformed_50.json,Elastic_FCC
+Ta,Linear,-46.418078,./examples/Ta_Linear_JCP2014/JSON/Elastic_FCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_FCC/FCC_deformed_20.json,Elastic_FCC
+Ta,Linear,-46.416957,./examples/Ta_Linear_JCP2014/JSON/Elastic_FCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_FCC/FCC_deformed_15.json,Elastic_FCC

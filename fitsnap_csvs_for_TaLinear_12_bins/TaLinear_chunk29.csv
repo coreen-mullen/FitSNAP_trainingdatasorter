@@ -1,0 +1,13 @@
+element,model,search_item,rel_path,file,Group
+Ta,Linear,-23.405474,./examples/Ta_Linear_JCP2014/JSON/Volume_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Volume_BCC/BCC_3.2.json,Volume_BCC
+Ta,Linear,-23.207313,./examples/Ta_Linear_JCP2014/JSON/Volume_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Volume_BCC/BCC_3.5.json,Volume_BCC
+Ta,Linear,-22.8504,./examples/Ta_Linear_JCP2014/JSON/Volume_FCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Volume_FCC/FCC_6.0.json,Volume_FCC
+Ta,Linear,-22.620568,./examples/Ta_Linear_JCP2014/JSON/Volume_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Volume_BCC/BCC_3.1.json,Volume_BCC
+Ta,Linear,-22.585113,./examples/Ta_Linear_JCP2014/JSON/Volume_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Volume_BCC/BCC_3.6.json,Volume_BCC
+Ta,Linear,-21.795501,./examples/Ta_Linear_JCP2014/JSON/Volume_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Volume_BCC/BCC_3.7.json,Volume_BCC
+Ta,Linear,-21.209071,./examples/Ta_Linear_JCP2014/JSON/Volume_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Volume_BCC/BCC_3.0.json,Volume_BCC
+Ta,Linear,-20.885998,./examples/Ta_Linear_JCP2014/JSON/Volume_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Volume_BCC/BCC_3.8.json,Volume_BCC
+Ta,Linear,-19.898089,./examples/Ta_Linear_JCP2014/JSON/Volume_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Volume_BCC/BCC_3.9.json,Volume_BCC
+Ta,Linear,-19.075994,./examples/Ta_Linear_JCP2014/JSON/Volume_FCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Volume_FCC/FCC_3.4.json,Volume_FCC
+Ta,Linear,-19.002205,./examples/Ta_Linear_JCP2014/JSON/Volume_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Volume_BCC/BCC_2.9.json,Volume_BCC
+Ta,Linear,-18.864936,./examples/Ta_Linear_JCP2014/JSON/Volume_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Volume_BCC/BCC_4.0.json,Volume_BCC

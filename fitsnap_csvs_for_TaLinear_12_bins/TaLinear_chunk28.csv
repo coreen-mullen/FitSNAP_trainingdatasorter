@@ -1,0 +1,13 @@
+element,model,search_item,rel_path,file,Group
+Ta,Linear,-23.688755,./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC/BCC_deformed_23.json,Elastic_BCC
+Ta,Linear,-23.688669,./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC/BCC_deformed_42.json,Elastic_BCC
+Ta,Linear,-23.688402,./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC/BCC_deformed_54.json,Elastic_BCC
+Ta,Linear,-23.688108,./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC/BCC_deformed_89.json,Elastic_BCC
+Ta,Linear,-23.687908,./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC/BCC_deformed_22.json,Elastic_BCC
+Ta,Linear,-23.687892,./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC/BCC_deformed_79.json,Elastic_BCC
+Ta,Linear,-23.687696,./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC/BCC_deformed_1.json,Elastic_BCC
+Ta,Linear,-23.687444,./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC/BCC_deformed_94.json,Elastic_BCC
+Ta,Linear,-23.687426,./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC/BCC_deformed_48.json,Elastic_BCC
+Ta,Linear,-23.687388,./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC/BCC_deformed_6.json,Elastic_BCC
+Ta,Linear,-23.686278,./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC/BCC_deformed_46.json,Elastic_BCC
+Ta,Linear,-23.601336,./examples/Ta_Linear_JCP2014/JSON/Volume_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Volume_BCC/BCC_3.4.json,Volume_BCC

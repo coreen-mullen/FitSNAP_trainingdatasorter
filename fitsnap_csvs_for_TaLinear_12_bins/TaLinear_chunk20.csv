@@ -1,0 +1,13 @@
+element,model,search_item,rel_path,file,Group
+Ta,Linear,-28.451145,./examples/Ta_Linear_JCP2014/JSON/Volume_FCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Volume_FCC/FCC_5.6.json,Volume_FCC
+Ta,Linear,-26.954384,./examples/Ta_Linear_JCP2014/JSON/Volume_FCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Volume_FCC/FCC_5.7.json,Volume_FCC
+Ta,Linear,-26.862709,./examples/Ta_Linear_JCP2014/JSON/Volume_FCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Volume_FCC/FCC_3.5.json,Volume_FCC
+Ta,Linear,-26.77612,./examples/Ta_Linear_JCP2014/JSON/Volume_A15,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Volume_A15/A15_4.2.json,Volume_A15
+Ta,Linear,-25.519883,./examples/Ta_Linear_JCP2014/JSON/Volume_FCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Volume_FCC/FCC_5.8.json,Volume_FCC
+Ta,Linear,-24.150343,./examples/Ta_Linear_JCP2014/JSON/Volume_FCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Volume_FCC/FCC_5.9.json,Volume_FCC
+Ta,Linear,-23.696705,./examples/Ta_Linear_JCP2014/JSON/Volume_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Volume_BCC/BCC_3.3.json,Volume_BCC
+Ta,Linear,-23.691019,./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC/BCC_deformed_73.json,Elastic_BCC
+Ta,Linear,-23.690957,./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC/BCC_deformed_47.json,Elastic_BCC
+Ta,Linear,-23.690843,./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC/BCC_deformed_38.json,Elastic_BCC
+Ta,Linear,-23.690811,./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC/BCC_deformed_93.json,Elastic_BCC
+Ta,Linear,-23.690752,./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Elastic_BCC/BCC_deformed_53.json,Elastic_BCC

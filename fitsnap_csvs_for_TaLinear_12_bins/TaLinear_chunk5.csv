@@ -1,0 +1,13 @@
+element,model,search_item,rel_path,file,Group
+Ta,Linear,-345.452139,./examples/Ta_Linear_JCP2014/JSON/GSF_112,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/GSF_112/GSF_112_nonrelax_0.35.json,GSF_112
+Ta,Linear,-345.383994,./examples/Ta_Linear_JCP2014/JSON/GSF_112,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/GSF_112/GSF_112_relax_0.15.json,GSF_112
+Ta,Linear,-345.319406,./examples/Ta_Linear_JCP2014/JSON/GSF_112,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/GSF_112/GSF_112_relax_0.3.json,GSF_112
+Ta,Linear,-345.281949,./examples/Ta_Linear_JCP2014/JSON/GSF_112,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/GSF_112/GSF_112_nonrelax_0.15.json,GSF_112
+Ta,Linear,-345.175835,./examples/Ta_Linear_JCP2014/JSON/GSF_112,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/GSF_112/GSF_112_relax_0.2.json,GSF_112
+Ta,Linear,-345.164602,./examples/Ta_Linear_JCP2014/JSON/GSF_112,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/GSF_112/GSF_112_relax_0.25.json,GSF_112
+Ta,Linear,-345.111657,./examples/Ta_Linear_JCP2014/JSON/GSF_112,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/GSF_112/GSF_112_nonrelax_0.3.json,GSF_112
+Ta,Linear,-344.984307,./examples/Ta_Linear_JCP2014/JSON/GSF_112,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/GSF_112/GSF_112_nonrelax_0.2.json,GSF_112
+Ta,Linear,-344.91356,./examples/Ta_Linear_JCP2014/JSON/GSF_112,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/GSF_112/GSF_112_nonrelax_0.25.json,GSF_112
+Ta,Linear,-279.911828,./examples/Ta_Linear_JCP2014/JSON/Surface,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/Surface/110_surface_relax.json,Surface
+Ta,Linear,-279.901657,./examples/Ta_Linear_JCP2014/JSON/GSF_110,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/GSF_110/GSF_110_relax_0.0.json,GSF_110
+Ta,Linear,-279.901657,./examples/Ta_Linear_JCP2014/JSON/GSF_110,/home/cmmulle/FitSNAP/./examples/Ta_Linear_JCP2014/JSON/GSF_110/GSF_110_relax_0.5.json,GSF_110
