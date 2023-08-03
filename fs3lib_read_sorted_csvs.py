@@ -307,6 +307,7 @@ fitsnap.pt.all_barrier()
 fitsnap.perform_fit()
 
 # Can also access the fitsnap dataframe here:
+# NOTE: we could probably put a bunch of different fits in a for loop in this script and access the metrics_file information right here
 # print(snap.solver.df)
 
 # Write LAMMPS potential files and error analysis in new directory
