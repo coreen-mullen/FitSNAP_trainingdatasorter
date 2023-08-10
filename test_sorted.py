@@ -24,10 +24,16 @@ from fitsnap3lib.units.units import convert
 
 # Designate a training CSV to get groups and training file sources
 training_csv_path = "./fitsnap_csvs_for_TaLinear_31_bins"
-new_potential_path = training_csv_path.replace("csvs", "fit")
-
+#new_potential_path = training_csv_path.replace("csvs", "fit")
+new_potential_path = "./fitsnap_fits_for_TaLinear_31_bins_e1f10"
+ 
 # Set desired group weights (must be constant for now)
-group_weight_dict = {'training_size': 1.0, 'testing_size': 0.0, 'eweight': 1, 'fweight': 100, 'vweight': 1e-12}
+
+## MEG TASK: create a system to vary 'eweight' and 'fweight' values by some increment, and run fits at those increments.
+## example: eweight 10^1, 10^2, 10^3...
+## example: fweight 10^1, 10^2, 10^3...
+## ... and then combinations of the two
+group_weight_dict = {'training_size': 1.0, 'testing_size': 0.0, 'eweight': 1, 'fweight': 10, 'vweight': 1e-12}
 
 # Create an input dictionary containing settings.
 settings = \
